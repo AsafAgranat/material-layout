@@ -2,7 +2,7 @@ Package.describe({
   name: 'noxu:material-layout',
   version: '0.0.4',
   summary: "Material Design layout SASS Framework",
-  git: 'https://github.com/noxu-fr/material-layout',
+  git: 'https://github.com/Noxu/material-layout',
   documentation: 'README.md'
 });
 
