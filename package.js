@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.4.2.3');
-  api.use("fourseven:scss");
+  api.use("fourseven:scss@3.13.0");
 
   api.addFiles([
     'stylesheets/variables.scss',
